@@ -1,5 +1,6 @@
 
 - [initialisation d'un repo git](#initialisation-dun-repo-git)
+- [Bonne pratique de git](#bonne-pratique-de-git)
 - [Branche](#branche)
 - [Release](#release)
 
@@ -20,6 +21,10 @@ git remote add origin <lien https>
 git branch -M main
 git push -u origin main
 ```
+
+# Bonne pratique de git
+
+<p align="center"><img src=bonne_pratique.png><p>
 
 # Branche
 
